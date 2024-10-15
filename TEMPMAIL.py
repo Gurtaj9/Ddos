@@ -100,7 +100,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Main function to run the bot
 def main():
-    token = "7880546265:AAEyXvj5c5PTqfJ7Lx22o7pj5MPa4ckTjuU"  # Replace with your bot token
+    token = "7672105346:AAF7nGPJBz9LMmXJA2HLRbAD3dmTSblgMaU"  # Replace with your bot token
 
     # Create the application
     app = ApplicationBuilder().token(token).build()
